@@ -1,0 +1,1078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"database"
+			],
+			[
+				"som",
+				"soma1"
+			],
+			[
+				"no",
+				"norm"
+			],
+			[
+				"da",
+				"data1"
+			],
+			[
+				"a",
+				"a_value"
+			],
+			[
+				"loa",
+				"load_dataset_breast"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"net",
+				"net_pca"
+			],
+			[
+				"ANN",
+				"Ann_PCA"
+			],
+			[
+				"ma",
+				"malignant"
+			],
+			[
+				"plt",
+				"plot_iris"
+			],
+			[
+				"cla",
+				"class3"
+			],
+			[
+				"cl",
+				"class2"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"pr",
+				"prediction"
+			],
+			[
+				"soma",
+				"somaVect"
+			],
+			[
+				"au",
+				"auto_value"
+			],
+			[
+				"auto",
+				"auto_value"
+			],
+			[
+				"get",
+				"get_score"
+			],
+			[
+				"plot",
+				"plot_scores"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"load",
+				"load_dataset_wine"
+			],
+			[
+				"X",
+				"X_r"
+			],
+			[
+				"tar",
+				"target_names"
+			],
+			[
+				"ta",
+				"target_names"
+			],
+			[
+				"targ",
+				"target_names"
+			],
+			[
+				"tareg",
+				"target_names"
+			],
+			[
+				"d",
+				"datasets"
+			],
+			[
+				"o",
+				"orderRes"
+			],
+			[
+				"or",
+				"orderRes"
+			],
+			[
+				"invo",
+				"invoiceId"
+			],
+			[
+				"po",
+				"post_req"
+			],
+			[
+				"se",
+				"securityCode"
+			],
+			[
+				"ho",
+				"holderName"
+			],
+			[
+				"ex",
+				"expirationYear"
+			],
+			[
+				"Inc",
+				"invoiceId"
+			],
+			[
+				"order",
+				"orderTransaction"
+			],
+			[
+				"i",
+				"Id"
+			],
+			[
+				"m",
+				"Mrchnt"
+			],
+			[
+				"en",
+				"Envt"
+			],
+			[
+				"p",
+				"PrtcolVrsn"
+			],
+			[
+				"upa",
+				"updated"
+			],
+			[
+				"bus",
+				"businessPartner"
+			],
+			[
+				"ne",
+				"negotiate"
+			],
+			[
+				"ret",
+				"retObj"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"enc",
+				"encryptPassword"
+			],
+			[
+				"act",
+				"activationToken"
+			],
+			[
+				"de",
+				"defaultsTo"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"uni",
+				"uniqueKey"
+			],
+			[
+				"bp",
+				"bpParam"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fu",
+				"fullToken"
+			],
+			[
+				"Business",
+				"BusinessPartner"
+			],
+			[
+				"mi",
+				"minLength"
+			],
+			[
+				"app",
+				"app_id"
+			],
+			[
+				"api",
+				"apiSecret"
+			],
+			[
+				"valid",
+				"validOrderRequest"
+			],
+			[
+				"amount",
+				"amountInCents"
+			],
+			[
+				"cre",
+				"creditCardNumber"
+			],
+			[
+				"credi",
+				"creditCardTransaction"
+			],
+			[
+				"cred",
+				"creditCardTransaction"
+			],
+			[
+				"hr",
+				"hrend"
+			],
+			[
+				"inva",
+				"invalidAmountInCents"
+			],
+			[
+				"am",
+				"amountInCents"
+			],
+			[
+				"amou",
+				"amountInCentsSanitized"
+			],
+			[
+				"logg",
+				"loggers"
+			],
+			[
+				"co",
+				"codigo_cedente"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"ce",
+				"cedente_cnpj"
+			],
+			[
+				"pro",
+				"processOrder"
+			],
+			[
+				"error",
+				"errorItem"
+			],
+			[
+				"erro",
+				"errorCode"
+			],
+			[
+				"er",
+				"errorCode"
+			],
+			[
+				"Co",
+				"CODRET"
+			],
+			[
+				"is",
+				"isfero_core"
+			],
+			[
+				"vali",
+				"validateRequest"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"crte",
+				"createCreditCardTransaction"
+			],
+			[
+				"A",
+				"AddData"
+			],
+			[
+				"Con",
+				"ConfTxn"
+			],
+			[
+				"Nu",
+				"Numdoc4"
+			],
+			[
+				"Num",
+				"Numdoc3"
+			],
+			[
+				"PA",
+				"Pax4"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"RED",
+				"REDECARD_TEST_URL"
+			],
+			[
+				"taman",
+				"tamanhoY"
+			],
+			[
+				"tamanho",
+				"tamanhoX"
+			],
+			[
+				"move",
+				"moveCount"
+			],
+			[
+				"print",
+				"printStack"
+			],
+			[
+				"W",
+				"wrongMove"
+			],
+			[
+				"std",
+				"stdin"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"n",
+				"nOriginal"
+			],
+			[
+				"Cyc",
+				"CycleLength"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Cy",
+				"CycleLength"
+			],
+			[
+				"Re",
+				"readFileFGets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/net_pca.py",
+			"settings":
+			{
+				"buffer_size": 6517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[ 0.41765895  0.19189891  0.35013918  0.30931638  0.29398317  0.28534735\n  0.19449965  0.26022259  0.21478449  0.18678525  0.26724349  0.31354091\n  0.2152495 ]\n[ 0.09730472  0.39462422  0.12668233  0.24220615  0.03617628 -0.28336498\n -0.44196738  0.45001313 -0.22281846  0.22700997 -0.1773217  -0.33199018\n -0.19439724]\n[ 0.05662344  0.09632113 -0.03412282 -0.24669848  0.06753835  0.05263691\n  0.03151362 -0.2732423   0.05055495  0.6343507  -0.30924852 -0.25541676\n  0.52588537]\n[ 0.06106204 -0.74832066  0.0484335  -0.05463717  0.04099941 -0.07792072\n -0.11601099  0.41542665 -0.20300813  0.13097386  0.27270789 -0.18189021\n  0.26683587]\n[-0.13647853 -0.29564351 -0.03496033  0.173359   -0.088406    0.16169456\n  0.14580495  0.13495408  0.57903949  0.35471699 -0.25444063 -0.15870469\n -0.48695014]\n[-0.15034018  0.27199833 -0.19168648 -0.39015634 -0.34415465  0.18342889\n  0.20731386  0.64928564  0.19078985 -0.10476385 -0.06107843  0.03510632\n  0.2122777 ]\n[-0.68956911 -0.25473563 -0.49125137 -0.22313082 -0.63689277 -0.31633097\n -0.27831301  0.58664289  0.19690322 -0.14514993 -0.49712247 -0.6014743\n -0.88045224]\n[ 0.03965605  0.09050021 -0.14189804 -0.10289624  0.29733977 -0.33758789\n -0.2887988  -0.01381095  0.66866438 -0.23690157  0.2659763  -0.1995598\n  0.20821069]\n[-0.09261452  0.24257822 -0.19208639 -0.14405914  0.10671677 -0.10048924\n -0.01073142 -0.07171508  0.72326468 -0.32069257  0.12422006 -0.02791414\n  0.00438661]\n[ 0.71641705  0.80843701  0.21161133  0.01392043  0.26520257  0.87870424\n  0.11878323  0.83270447  0.03816098  0.33152015  0.18757046  0.02667842\n  0.12489787]\n[ 0.97095438  0.3539477   0.2701151   0.5089751   0.55112539  0.46833161\n  0.80589036  0.73511528  0.90887226  0.049178    0.95870454  0.17864721\n  0.59965531]\n[ 0.33418059  0.25874481  0.68889711  0.08555699  0.61973295  0.39811624\n  0.97267827  0.4190187   0.84585823  0.36933148  0.15734455  0.13712353\n  0.97607401]\n[ 0.56411056  0.80618374  0.31905099  0.97947831  0.87351867  0.4365717\n  0.30470899  0.08123439  0.75935184  0.98138401  0.08696287  0.20208023\n  0.11725613]",
+			"settings":
+			{
+				"buffer_size": 2076,
+				"line_ending": "Unix",
+				"name": "[ 0.41765895  0.19189891  0.35013918  0.30931638"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/pca_jef.py",
+			"settings":
+			{
+				"buffer_size": 7830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/net_pca2.py",
+			"settings":
+			{
+				"buffer_size": 6477,
+				"line_ending": "Unix",
+				"name": "import numpy as np"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/pca_paulo.py",
+			"settings":
+			{
+				"buffer_size": 6390,
+				"line_ending": "Unix",
+				"name": "import numpy as np"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/test.py",
+			"settings":
+			{
+				"buffer_size": 2458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/test_pca.py",
+			"settings":
+			{
+				"buffer_size": 3344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eldersantos/Documents/code/gpam/gpam/teste_m.py",
+			"settings":
+			{
+				"buffer_size": 2639,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eldersantos/Documents/code/gpam/gpam",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets"
+	],
+	"file_history":
+	[
+		"/Users/eldersantos/Documents/code/gpam/gpam/pca_jef.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/gha.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/variance.py",
+		"/Users/eldersantos/Downloads/micromass/mixed_spectra_matrix.csv",
+		"/Users/eldersantos/Documents/code/gpam/gpam/saida pca.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/dorothea_train.data",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/arcene_train.data",
+		"/Users/eldersantos/Documents/code/gpam/gpam/out_ann.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/cnae9.data",
+		"/Users/eldersantos/Documents/code/gpam/gpam/test2.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/log_w_glass.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/log_breast.txt",
+		"/Users/eldersantos/Desktop/.hgignore",
+		"/Users/eldersantos/Documents/code/gpam/gpam/log.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/log2.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/mnist.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/iris.log",
+		"/Users/eldersantos/Documents/code/gpam/gpam/svc.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/breast-cancer.data",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/wine.names",
+		"/Users/eldersantos/Documents/code/gpam/gpam/pca2.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/out.txt",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/kr-vs-kp.names",
+		"/Users/eldersantos/Documents/code/gpam/gpam/pca_reduction.py",
+		"/Users/eldersantos/Documents/downloaded_websites/web.stanford.edu/mnist_pca.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/pca_lda.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/pca.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/voronoi.py",
+		"/Users/eldersantos/Documents/code/mestrado/fibo.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/mlp.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/autoencoder.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/num.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/breast-cancer-svm.data",
+		"/Users/eldersantos/Documents/code/gpam/gpam/test.py",
+		"/Users/eldersantos/Documents/code/gpam/gpam/datasets/kr-vs-kp.data",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/package.json",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/webservice.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/createOrderRequest.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/creditCardTransaction.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Invoice.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/migrations/20140915153845_01_create_tables.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/businessPartnerFilter.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/env/development.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/index.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_gateway/routes/order.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/creditCardTransaction.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_gateway/package.json",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/cancelCreditCardTransaction.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/cancelTransaction.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/cancelCreditCardTransactionResult.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/boletoTransaction.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/index.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_gateway/routes/index.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/manageOrderRequest.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/cancelOrderRequest.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_core/models/cancelOrderResponse.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_redecard/index.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/creditCardRequest.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_redecard/redecard/getAuthorizedRequest.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/base/Controller.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/config.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Item.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/destroy.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/policies.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/BusinessPartner.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Credit.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Client.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/BusinessPartnerController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Category.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Payment.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/isAuthenticated.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_redecard/redecard/webservice.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/UserController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/base/Model.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/User.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/InvoiceLine.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_gateway/util/validator.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/package.json",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/exemplo_canc.xml",
+		"/Users/eldersantos/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/eldersantos/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/exemplo_canc_response.xml",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/exemplo_aut.xml",
+		"/Users/eldersantos/Documents/code/isfero/isfero_stone/stone/exemplo_aut_response.xml",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/connections.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/models.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/ClientController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/hooks/passport/index.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/update.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/routes.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/loginAuth.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/find.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/activate.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/_util/actionUtil.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/BusinesspartnerController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/ItemController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/signup.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/CreditController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/helpers/model_validator.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/RequestLog.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/addCreated.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/policies/addUpdated.js",
+		"/Users/eldersantos/Documents/temp/req.json",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/InvoiceController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/CategoryController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/PaymentController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/services/Logger.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/ContactController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Contact.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/History.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/controllers/HistoryController.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/blueprints.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/services/Ember.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/findone.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/populate.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/blueprints/create.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/test/unit/models/User.test.js",
+		"/Users/eldersantos/Documents/code/isfero/web/app/components/send-method.js",
+		"/Users/eldersantos/Documents/code/isfero/web/app/routes/businessPartner.js",
+		"/Users/eldersantos/Documents/code/isfero/web/app/router.js",
+		"/Users/eldersantos/Documents/code/isfero/web/app/components/select-dropdown.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/services/History.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/Expense.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/config/log.js",
+		"/Users/eldersantos/Documents/code/isfero/isfero_api/api/models/BusinesssPpartner.js",
+		"/Users/eldersantos/Documents/code/catalago/views/layout.ejs",
+		"/Users/eldersantos/Documents/code/catalago/config/log.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?",
+			"normalize",
+			"pow",
+			"?",
+			"AccptrAuthstnReq",
+			"transaction",
+			"paymentModule",
+			"businessPartner",
+			"elder.santos",
+			"body",
+			"params",
+			"business",
+			"identity",
+			"business",
+			"user",
+			"business",
+			"user",
+			"build",
+			"bootstrap",
+			"=",
+			"config",
+			"KHIUAXLGIVHPDGV",
+			"error",
+			"f30",
+			"f3c",
+			"Leaders",
+			"f30",
+			"\\r\\n",
+			"Object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AccptrCxlReq",
+			"creditCardPaymentModule",
+			"user",
+			":",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/net_pca.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1200,
+								1200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2076,
+								2076
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[ 0.41765895  0.19189891  0.35013918  0.30931638",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/pca_jef.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3959,
+								3963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 2847.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/net_pca2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5575,
+								5575
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import numpy as np",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/pca_paulo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5926,
+								5926
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import numpy as np",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3873.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2102,
+								2102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1307.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/datasets/wine_y.png",
+					"semi_transient": true,
+					"stack_index": 3,
+					"type": "image"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/test_pca.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/eldersantos/Documents/code/gpam/gpam/teste_m.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 813.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mestrado.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/eldersantos/Documents/code/isfero/isfero_gateway/util/winston-postgre.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
